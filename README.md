@@ -19,7 +19,11 @@
     <sup>*</sup>Team Captain
     <br>
 </p>
-
+<div align="center">
+  <a href="https://cv.maxi.su/TheCurers/">
+    <img src="supplementary/PlayGame.svg" alt="PLAY GAME">
+  </a>
+</div>
 
 ## Game Introduction
 
