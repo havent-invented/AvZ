@@ -16,10 +16,10 @@
     <br>
     University of Southern California
     <br>
-    <sup>*</sup>Team Captain
+    <sup>*</sup>Team Leader 
     <br>
 </p>
-<div align="center">
+<div align="center"> 
   <a href="https://cv.maxi.su/TheCurers/">
     <img src="supplementary/PlayGame.svg" alt="PLAY GAME">
   </a>
@@ -45,14 +45,12 @@ Gameplay videos are shown in Game Videos section
 **The Curers** is a fast-paced, level-based FPS blending action and strategy. Players must cure infected zombies, tackle escalating challenges, and manage scarce resources to survive. Each level tests adaptability and decision-making.
 
 **Key Features:**
-
 - **Dynamic Zombie Threats:** Combat requires quick reflexes and tactical movement.
 - **Resource Management:** Supplies are limited—players must gain and spend resources wisely.
 - **Safe House Economy:** Purchase items between levels to progress forward in the game 
 - **High Stakes Survival:** Heal the zombies and reach the evacuation point to win. Failure costs resources and rewards.
 
 **Infection Mechanic:**
-
 - **Escalating Threat:** Infection levels intensify every 30 seconds, demanding swift action.
 - **Antidote Use:** Cure zombies by administering antidotes under strict conditions (close range, health < 50%). Misuse wastes resources.
 
